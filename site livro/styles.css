@@ -1,0 +1,44 @@
+
+header{
+min-height: 150px
+    background-color; var(#0004f0);
+
+}
+
+header > h1{
+    font-style: inherit   
+font-size: 300%;
+color: hsl(0, 0%, 99%);
+background-color: #0004f0;
+text-align: center;
+text-shadow: 2px 6px 6px rgba(0, 0, 0, 0.315)
+
+
+}
+body {
+    background-image:linear-gradient(to right, #9bf1ff, #75d9f6,#2aa8e4,#048fdb) ;
+}
+
+nav{
+    background-color: #0004f0;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav>a{
+color: white;
+padding: 10;
+text-decoration: none;
+}  
+
+main{
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+box-shadow: 10px 5px 10px black;
+}
+
