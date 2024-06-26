@@ -1,22 +1,22 @@
 
 header{
-min-height: 150px
-    background-color; var(#0004f0);
+min-height: 50px;
+    background-color: var(#0004f0);
 
 }
 
 header > h1{
-    font-style: inherit   
-font-size: 300%;
-color: hsl(0, 0%, 99%);
-background-color: #0004f0;
-text-align: center;
-text-shadow: 2px 6px 6px rgba(0, 0, 0, 0.315)
+    font-style: inherit ; 
+font-size:300%;
+color:hsl(0,0%,99%);
+background-color:#0004f0;
+text-align:center;
+text-shadow:2px 6px 6px rgba(0, 0, 0, 0.315);
 
 
 }
 body {
-    background-image:linear-gradient(to right, #9bf1ff, #75d9f6,#2aa8e4,#048fdb) ;
+    background-image:linear-gradient(to right, #75d9f6,#2aa8e4,#048fdb);
 }
 
 nav{
@@ -30,6 +30,7 @@ nav>a{
 color: white;
 padding: 10;
 text-decoration: none;
+font-size: 100%;
 }  
 
 main{
@@ -42,3 +43,10 @@ main{
 box-shadow: 10px 5px 10px black;
 }
 
+button{
+    text-decoration: wavy; 
+}
+
+a{
+    text-decoration: wavy; 
+}
